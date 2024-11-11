@@ -1,0 +1,11 @@
+{"projects":[
+  {
+    "id": "1",
+    "title": "KanbanBoard",
+    "imageSrc": "https://media.licdn.com/dms/image/C4E12AQFEng0IyUCA7Q/article-cover_image-shrink_600_2000/0/1643810768536?e=2147483647&v=beta&t=B7Jg7iTr8WC0EU4Hwx1vZzDVVYdNaqGSzPUotuwjOcM",
+    "description": "A Kanban Board Build Using HTML CSS and DOM Manipulation",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://tharun-balaji.github.io/kanban-board/",
+    "source": "https://github.com/Tharun-Balaji/kanban-board"
+  }
+]}
